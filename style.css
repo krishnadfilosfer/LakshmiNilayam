@@ -746,3 +746,8 @@ a { text-decoration: none; color: inherit; }
   .hero-actions { flex-direction: column; align-items: center; }
   .about-stats { grid-template-columns: 1fr 1fr; }
 }
+
+
+.fullhide{
+  display: none;
+}
